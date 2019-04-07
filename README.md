@@ -1,4 +1,4 @@
-#SLAM-Project#
+#SLAM-Project
 
 <p align="center">
   <img src="./misc/where.gif"/>
